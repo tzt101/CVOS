@@ -15,7 +15,7 @@ cd CVOS/
 This code is tested on PyTorch 0.4.0. You need to install some necessary dependencies and [coviar](https://github.com/chaoyuaw/pytorch-coviar.git).
 
 ## Dataset and Pretrained Model
-You can download the prepared dataset and pretrained models from [OneDrive](). Please unzip it in the folder CVOS/. If you want to generate new video dataset, please refer to [coviar](https://github.com/chaoyuaw/pytorch-coviar.git).
+You can download the prepared dataset and pretrained models from [OneDrive](https://mailustceducn-my.sharepoint.com/:u:/g/personal/tzt_mail_ustc_edu_cn/ETRirE6WJnJOqUT_PKptrf0BiA4ecooTjIPKdqKaa7VnEw?e=f8Zu0s). Please unzip it in the folder CVOS/. If you want to generate new video dataset, please refer to [coviar](https://github.com/chaoyuaw/pytorch-coviar.git).
 
 ## Inference with pretrained model
 ```bash
