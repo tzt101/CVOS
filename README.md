@@ -21,13 +21,13 @@ You can download the prepared dataset and pretrained models from [OneDrive](). P
 ```bash
 python inference.py
 ```
-You can set the inference parameters on inference.py (line 229~251).
+You can set the inference parameters on inference.py (line 229-251).
 
 ## Training New Models
 ```bash
 python train.py
 ```
-You can set the training parameters on train.py (line 149~155) and dataset parameters on data/davis16.py (line 134~140).
+You can set the training parameters on train.py (line 149-155) and dataset parameters on data/davis16.py (line 134-140).
 
 ## Citation
 If you use this code for your research, please cite our papers.
